@@ -1,5 +1,3 @@
-# MergeSort-Algo
-
 
 def getval(arr):
   if len(arr) == 1:
